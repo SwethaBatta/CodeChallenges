@@ -22,7 +22,7 @@ To accept a variable range of numeric inputs and computes highest, lowest and av
 - I rounded the average to 2 decimal places and sorted the list to obtain highest and lowest values.
 
 - If descriptive error messages are not needed, the commented block of code in main can be used where the type casting is done at the time of accepting user input. List comprehension is used to create this integer list and any non-integer value will throw a generic exception.
-- Used map function in tests to map provide provide input as string values
+
 
 **Optimization**
 - All the exception handling is implemented in one method (isValidList), this is helpful in determining if the rest of the code needs to be accessed. 
