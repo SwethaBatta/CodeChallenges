@@ -1,19 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 11 16:13:01 2020
-
-@author: SwethaBatta
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  8 08:48:30 2020
-
-@author: SwethaBatta
-"""
-
 import unittest
-
 from RollTwoDice import RollTwoDice
 
 class TestRollTwoDice(unittest.TestCase):
