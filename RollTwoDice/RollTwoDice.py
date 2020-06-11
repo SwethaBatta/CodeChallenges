@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 11 11:18:14 2020
-
-@author: SwethaBatta
-"""
-
 import tkinter
 import random
 
