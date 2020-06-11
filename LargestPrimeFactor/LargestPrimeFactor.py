@@ -23,8 +23,8 @@ def largestPrimeFactor(num):
             maxPrimeFactor = i
             num /= i
     
-    #If prime number greater than 2
-    if num > 2:
+    #If number not equal to 1
+    if num != 1:
         maxPrimeFactor = num
     
     return (f'Largest prime factor of {inputNum} :  {int(maxPrimeFactor)}')
